@@ -1,1 +1,1 @@
-# funcoes-dio
+# Atividades práticas sobre funções no JS.
